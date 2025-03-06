@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.titu {
+    background-color: #DEA74E;
+    font-family: "Holtwood One SC", serif;
+    color: #fff;
+    text-align: center;
+}
+
+
+.teto {
+    font-family: "Homenaje", sans-serif;
+}
+
+button {
+    background-color: #BF8F41;
+    border: none;
+    width: 127px;
+    height: 127px;
+    font-size: 48px;
+    position: relative;
+    display: block;
+}
+
+.rick {
+    
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-family: "Holtwood One SC", serif;
+}
