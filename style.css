@@ -1,15 +1,21 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-.titu {
+header {
     background-color: #DEA74E;
     font-family: "Holtwood One SC", serif;
     color: #fff;
     text-align: center;
+    min-height: 127px;
 }
 
+.titu {
+    font-size: 17px;
+    text-align: center;
+}
 
 .teto {
     font-family: "Homenaje", sans-serif;
@@ -20,17 +26,28 @@ button {
     border: none;
     width: 127px;
     height: 127px;
-    font-size: 48px;
-    position: relative;
-    display: block;
 }
 
 .rick {
-    
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.omega {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+img {
+    width: 100%;
 }
 
 a {
     color: #fff;
     text-decoration: none;
     font-family: "Holtwood One SC", serif;
+    font-size: 48px;
+    text-align: center;
 }
