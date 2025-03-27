@@ -1,3 +1,13 @@
-*{
+*{  
+    margin: 0;
+    padding: 0;
     background-color: black;
+}
+
+h1 {
+    position: absolute;
+    color: #ff0000;
+    text-align: center;
+    margin-top: 50vh;
+    right: 550px;
 }

@@ -3,10 +3,6 @@
     padding: 0;
 }
 
-html, body {
-    height: 1000vh;
-}
-
 header {
     background-color: #DEA74E;
     font-family: "Holtwood One SC", serif;
@@ -173,25 +169,26 @@ img {
 
 .reclama {
     position: absolute;
-    margin-top: 600px;
-}
-
-.reclama h2 {
-    position: absolute;
     text-align: right;
-    right: -1100px;
+    margin-top: 700px;
+    right: 20px;
 }
 
-.reclama h3 {
+.reclama img {
+    width: 208px;
+    height: 208px;
+    margin-top: 10px;
+}
+
+.diferencial {
     position: absolute;
-    text-align: right;
-    right: -1100px;
-    margin-top: 50px;
+    margin-top: 800px;
+    right: 410px;
+    
 }
 
-.reclama p {
+.diferencial p {
     text-align: left;
-    left: 0px;
 }
 
 a {
